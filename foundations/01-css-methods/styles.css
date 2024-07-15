@@ -1,0 +1,10 @@
+div {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif ;
+    font-weight: bold;
+    font-size: 4vw;
+    /* 1vw is 1 percent of the viewport width */
+    color: white;
+    
+    background-color: red;
+}
