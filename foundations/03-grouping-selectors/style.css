@@ -1,0 +1,17 @@
+.b-style-1,
+.b-style-2 {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.b-style-1 {
+    background-color: black;
+
+    color: white;
+}
+
+.b-style-2 {
+    background-color: yellow;
+
+    color: black;
+}
